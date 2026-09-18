@@ -1,0 +1,18 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A CLI tool to generate a Node.js backend boilerplate with Express.js and MongoDB.",
+  "main": "index.js",
+  "bin": {
+    "express-boilerplate": "index.js"
+  },
+  "files": ["index.js","templates"],
+  "keywords": [
+    "backend",
+    "generator",
+    "cli","nodejs","express","mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+}
